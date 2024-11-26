@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - interObject
+  - EnemyBullet
+  - KokoBullet
+  - ChaseRadius
+  - Water
+  - Parrier
+  - Enemy
+  - Ball
+  - ImpactCircle
+  - TitleCard
+  - TitleCardActivator
+  - Shooting AI
+  - GlubGlub
+  - GGBullet
+  - PatrolSkelly
+  - Flashlight
+  - Block
+  - TorchLight
+  - Slime
+  - Lightning
+  - StormButton
+  - Door
+  - Ball2
+  - NoMenu
+  - CheriCardRotate
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Chase Radius
+  - KokoBullet
+  - MeleeEnem
+  - Parrier
+  - Player
+  - EnemyBullet
+  - ImpactCircle
+  - TitleCard
+  - TitleCardActivator
+  - Ball
+  - Objects
+  - Shooting Enemy
+  - SlimeMelee
+  - GG
+  - GGBullet
+  - Spikes
+  - Patrol Skelly
+  - Flashlight
+  - Cream Cheese
+  - creamcheeseNR
+  - ColdZone
+  - HeatZone
+  - Block
+  - WeightButton
+  - SPADES
+  - text???
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Flower
+    uniqueID: 504083771
+    locked: 0
+  - name: Objects
+    uniqueID: 2360550917
+    locked: 0
+  - name: EnemiesAndNPCs
+    uniqueID: 2941956159
+    locked: 0
+  - name: Background
+    uniqueID: 1982374701
+    locked: 0
+  - name: Player
+    uniqueID: 2445773735
+    locked: 0
+  - name: Foreground
+    uniqueID: 1333986391
+    locked: 0
+  - name: GLUBGLUB.
+    uniqueID: 1084181227
+    locked: 0
+  - name: UI
+    uniqueID: 4001957047
+    locked: 0
+  - name: Shader
+    uniqueID: 1801673437
+    locked: 0
