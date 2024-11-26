@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: e9af40e36ecf2d14f93bfdceb67953df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -936791877655331327
+    second: KokoFaces_0
+  - first:
+      213: -8845956313351517636
+    second: KokoFaces_1
+  - first:
+      213: 1303596607050839816
+    second: KokoFaces_2
+  - first:
+      213: 7574237497672571361
+    second: KokoFaces_3
+  - first:
+      213: -6638950766426375748
+    second: KokoFaces_4
+  - first:
+      213: -4240704316752904511
+    second: KokoFaces_5
+  - first:
+      213: -7978338451095194200
+    second: KokoFaces_6
+  - first:
+      213: -7169261195715363432
+    second: KokoFaces_7
+  - first:
+      213: 3149505376025834569
+    second: KokoFaces_8
+  - first:
+      213: 181830399238103347
+    second: KokoFaces_9
+  - first:
+      213: 277809147021046730
+    second: KokoFaces_10
+  - first:
+      213: 4153910112515775087
+    second: KokoFaces_11
+  - first:
+      213: 6692443232672556700
+    second: KokoFaces_12
+  - first:
+      213: -3758233198034874570
+    second: KokoFaces_13
+  - first:
+      213: 5238488868595539966
+    second: KokoFaces_14
+  - first:
+      213: -5877565127961111673
+    second: KokoFaces_15
+  - first:
+      213: 7336491765228101662
+    second: KokoFaces_16
+  - first:
+      213: -1472807314145331410
+    second: KokoFaces_17
+  - first:
+      213: -3110546670157947338
+    second: KokoFaces_18
+  - first:
+      213: -1406978434955754648
+    second: KokoFaces_19
+  - first:
+      213: -533234203905251357
+    second: KokoFaces_20
+  - first:
+      213: -1879026995844216053
+    second: KokoFaces_21
+  - first:
+      213: 125494237180549742
+    second: KokoFaces_22
+  - first:
+      213: -8091208723614385177
+    second: KokoFaces_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KokoFaces_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 815
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef1e720c8dff2f0800000000000000
+      internalID: -936791877655331327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 815
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a0f04d999dc3580800000000000000
+      internalID: -8845956313351517636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 815
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077ba5153e471210800000000000000
+      internalID: 1303596607050839816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 815
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e99735cfd81d1960800000000000000
+      internalID: 7574237497672571361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 815
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb939ddd375bdd3a0800000000000000
+      internalID: -6638950766426375748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3a7264edf525c0800000000000000
+      internalID: -4240704316752904511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 615
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a571a4237f374190800000000000000
+      internalID: -7978338451095194200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 615
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db4674deaa18c90800000000000000
+      internalID: -7169261195715363432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 615
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f334e37a45bb20800000000000000
+      internalID: 3149505376025834569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_9
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 615
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33164f3e8cdf58200800000000000000
+      internalID: 181830399238103347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 415
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac33b8382f9fad300800000000000000
+      internalID: 277809147021046730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 415
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad76d2d37a5a930800000000000000
+      internalID: 4153910112515775087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 415
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962aea79a550ec50800000000000000
+      internalID: 6692443232672556700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 415
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f0d0081d218dbc0800000000000000
+      internalID: -3758233198034874570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 415
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff997c0fd9d2b840800000000000000
+      internalID: 5238488868595539966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 215
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78397a328a1be6ea0800000000000000
+      internalID: -5877565127961111673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 215
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10effbd36470d560800000000000000
+      internalID: 7336491765228101662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 215
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2735c11d898f8be0800000000000000
+      internalID: -1472807314145331410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 215
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e16fba84e15d4d0800000000000000
+      internalID: -3110546670157947338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_19
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 215
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c3d16198697ce0800000000000000
+      internalID: -1406978434955754648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a32611529998f0800000000000000
+      internalID: -533234203905251357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b065d17ea5ce5e0800000000000000
+      internalID: -1879026995844216053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 15
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a51840858ddb100800000000000000
+      internalID: 125494237180549742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KokoFaces_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 15
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3c61f88046bf80800000000000000
+      internalID: -8091208723614385177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
