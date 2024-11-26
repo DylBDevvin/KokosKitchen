@@ -1,0 +1,6516 @@
+fileFormatVersion: 2
+guid: 04a5489ddeba282488dc5e2e935002c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5658310608905319393
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_0
+  - first:
+      213: 3350617065376424339
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_1
+  - first:
+      213: 2710727274650853205
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_2
+  - first:
+      213: -2027387310551006784
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_3
+  - first:
+      213: -373300969220440793
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_4
+  - first:
+      213: -2542967345630475363
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_5
+  - first:
+      213: -5491851599580775219
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_6
+  - first:
+      213: 3111882819568118738
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_7
+  - first:
+      213: -5339878962384760584
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_8
+  - first:
+      213: -4269789032641574571
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_9
+  - first:
+      213: -8246861918682708904
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_10
+  - first:
+      213: 9062166485494298299
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_11
+  - first:
+      213: 5008273730769778224
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_12
+  - first:
+      213: -3227458679804914531
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_13
+  - first:
+      213: -5376312818004874361
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_14
+  - first:
+      213: 7185152996185718793
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_15
+  - first:
+      213: -1909808989085991282
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_16
+  - first:
+      213: 998990761836220753
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_17
+  - first:
+      213: 3851311108578902262
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_18
+  - first:
+      213: -5786840087324724901
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_19
+  - first:
+      213: -663219008259743612
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_20
+  - first:
+      213: -4092437143623028206
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_21
+  - first:
+      213: 4071020821039339838
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_22
+  - first:
+      213: 3868341161708243284
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_23
+  - first:
+      213: -4527303057113523660
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_24
+  - first:
+      213: 60404883513809511
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_25
+  - first:
+      213: 6570955974148468191
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_26
+  - first:
+      213: -3781290700750073390
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_27
+  - first:
+      213: 8639300419342510677
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_28
+  - first:
+      213: 974510837474794444
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_29
+  - first:
+      213: -273824364895092224
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_30
+  - first:
+      213: 7985120664481035243
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_31
+  - first:
+      213: -4861943485922359371
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_32
+  - first:
+      213: 1750859704229557391
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_33
+  - first:
+      213: -6247983414435685086
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_34
+  - first:
+      213: -3777606289793346122
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_35
+  - first:
+      213: 2371952977626982383
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_36
+  - first:
+      213: -485178634877602800
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_37
+  - first:
+      213: 5371903111948130585
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_38
+  - first:
+      213: 3760449277481622418
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_39
+  - first:
+      213: -9212458112034736425
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_40
+  - first:
+      213: -2979008992805900915
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_41
+  - first:
+      213: -1122724756723042914
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_42
+  - first:
+      213: 622056555284570811
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_43
+  - first:
+      213: -9213557237276321836
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_44
+  - first:
+      213: -269002802528259309
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_45
+  - first:
+      213: -721894402552670742
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_46
+  - first:
+      213: 7411161884575397683
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_47
+  - first:
+      213: 4781962838581322990
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_48
+  - first:
+      213: 5314068408417619652
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_49
+  - first:
+      213: -5560601253878707152
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_50
+  - first:
+      213: -846426031636700026
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_51
+  - first:
+      213: -4708684749746401582
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_52
+  - first:
+      213: -995013462156587312
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_53
+  - first:
+      213: -4109973199725764777
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_54
+  - first:
+      213: 778649820498476625
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_55
+  - first:
+      213: 6622875361849227315
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_56
+  - first:
+      213: -3644990970271377516
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_57
+  - first:
+      213: 6723396592314544538
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_58
+  - first:
+      213: 9131380056391822429
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_59
+  - first:
+      213: -7702006977596943134
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_60
+  - first:
+      213: 2580553864915286220
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_61
+  - first:
+      213: 4820378676806266972
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_62
+  - first:
+      213: 8299608051028663871
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_63
+  - first:
+      213: 4622715689013110642
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_64
+  - first:
+      213: -2122559482755267286
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_65
+  - first:
+      213: 5752689507830022508
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_66
+  - first:
+      213: 4818657635238905260
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_67
+  - first:
+      213: -3772843193333734767
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_68
+  - first:
+      213: 2269012359531419079
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_69
+  - first:
+      213: -6237666331548415988
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_70
+  - first:
+      213: 2662736342129477873
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_71
+  - first:
+      213: -5288291707289076680
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_72
+  - first:
+      213: 8771423349187744816
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_73
+  - first:
+      213: 5057051138094963066
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_74
+  - first:
+      213: 6972368165943504346
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_75
+  - first:
+      213: -1911203660191399295
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_76
+  - first:
+      213: -7526575638320951143
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_77
+  - first:
+      213: 3537189337722163881
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_78
+  - first:
+      213: -1370288036567148990
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_79
+  - first:
+      213: -1645154453065800194
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_80
+  - first:
+      213: 4878177348681524532
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_81
+  - first:
+      213: 4276376258692423266
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_82
+  - first:
+      213: -2372235090676213521
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_83
+  - first:
+      213: -3935362904087443777
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_84
+  - first:
+      213: -2207193695641210679
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_85
+  - first:
+      213: 6203574515265065172
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_86
+  - first:
+      213: 431494817270802467
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_87
+  - first:
+      213: -1605387415433597215
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_88
+  - first:
+      213: -959708668812356609
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_89
+  - first:
+      213: -675450489255299116
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_90
+  - first:
+      213: -2236961498454937750
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_91
+  - first:
+      213: -7600154448593598569
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_92
+  - first:
+      213: 4799243555975867658
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_93
+  - first:
+      213: 2266314262594757187
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_94
+  - first:
+      213: -7153495523298399388
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_95
+  - first:
+      213: -3651895293544938963
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_96
+  - first:
+      213: -1737846732797782908
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_97
+  - first:
+      213: 1121837620394965617
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_98
+  - first:
+      213: -1744367845259055912
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_99
+  - first:
+      213: 4301448911358596064
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_100
+  - first:
+      213: 5302949627643408069
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_101
+  - first:
+      213: 2328758764706434715
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_102
+  - first:
+      213: 5264498636244614707
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_103
+  - first:
+      213: 4314631665258426298
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_104
+  - first:
+      213: 401436203919430884
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_105
+  - first:
+      213: 2443231483150819573
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_106
+  - first:
+      213: 6298679706757290841
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_107
+  - first:
+      213: -6077350081148462749
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_108
+  - first:
+      213: 7007722722849329620
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_109
+  - first:
+      213: -3279739234470182363
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_110
+  - first:
+      213: -3260672036976017931
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_111
+  - first:
+      213: -7634873759827667606
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_112
+  - first:
+      213: 1481466415269706000
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_113
+  - first:
+      213: -5419110967495076654
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_114
+  - first:
+      213: 597972328896208194
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_115
+  - first:
+      213: -5797734318121304582
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_116
+  - first:
+      213: 3239477095498930667
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_117
+  - first:
+      213: 6873887244027378517
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_118
+  - first:
+      213: 8214425626560783522
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_119
+  - first:
+      213: 229883965155021632
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_120
+  - first:
+      213: 3411701985724762314
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_121
+  - first:
+      213: 4152565024213464186
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_122
+  - first:
+      213: 7877844685356006787
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_123
+  - first:
+      213: -128880725394061327
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_124
+  - first:
+      213: 8371325999539323055
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_125
+  - first:
+      213: -1018136808999410019
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_126
+  - first:
+      213: 405923881924034338
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_127
+  - first:
+      213: 6134298572064231175
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_128
+  - first:
+      213: 8257283248958296387
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_129
+  - first:
+      213: 3072930416039321730
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_130
+  - first:
+      213: 2772573676862147981
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_131
+  - first:
+      213: 5701436839095672699
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_132
+  - first:
+      213: -2099668241859260762
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_133
+  - first:
+      213: 541743266089497563
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_134
+  - first:
+      213: -5064596523254086380
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_135
+  - first:
+      213: 7722230890471839913
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_136
+  - first:
+      213: 2713121165388288773
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_137
+  - first:
+      213: 4554241059971560809
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_138
+  - first:
+      213: 342067498339803523
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_139
+  - first:
+      213: -2743962379782139679
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_140
+  - first:
+      213: -3768697544803112529
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_141
+  - first:
+      213: 2822576140160469710
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_142
+  - first:
+      213: 7163180877315016724
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_143
+  - first:
+      213: 4075340142965376119
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_144
+  - first:
+      213: -1444897003230795474
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_145
+  - first:
+      213: -4787328446043141584
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_146
+  - first:
+      213: -8897528023627753804
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_147
+  - first:
+      213: 4896635948545071309
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_148
+  - first:
+      213: 690856493091021083
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_149
+  - first:
+      213: 3548538015149862071
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_150
+  - first:
+      213: 3342547504889820875
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_151
+  - first:
+      213: -5319285446233628806
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_152
+  - first:
+      213: 5219790967548302662
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_153
+  - first:
+      213: -8610465339368460830
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_154
+  - first:
+      213: -6273284081599071234
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_155
+  - first:
+      213: -4066980673985127781
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_156
+  - first:
+      213: 8437335783342061595
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_157
+  - first:
+      213: 9151822690570566495
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_158
+  - first:
+      213: -5415189406715265929
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_159
+  - first:
+      213: -2850870470435086495
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_160
+  - first:
+      213: 7569988341609716364
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_161
+  - first:
+      213: 869394794372481578
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_162
+  - first:
+      213: 632064629811570783
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_163
+  - first:
+      213: 3802076613083461221
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_164
+  - first:
+      213: -5614696783102162304
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_165
+  - first:
+      213: 7082146139877820343
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_166
+  - first:
+      213: -5768510330540913
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_167
+  - first:
+      213: -4960300478286502680
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_168
+  - first:
+      213: 5082423365411994652
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_169
+  - first:
+      213: -1539222828171274404
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_170
+  - first:
+      213: -7191622852344995248
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_171
+  - first:
+      213: 2634685813820393708
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_172
+  - first:
+      213: -3977613835847995398
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_173
+  - first:
+      213: -8231943263447321555
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_174
+  - first:
+      213: -632722339997394045
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_175
+  - first:
+      213: 6401429158886465248
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_176
+  - first:
+      213: -3945603019476228825
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_177
+  - first:
+      213: 2820470851823300342
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_178
+  - first:
+      213: 148780335721418809
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_179
+  - first:
+      213: 4642403765845333092
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_180
+  - first:
+      213: -1955753701555630560
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_181
+  - first:
+      213: 4739195515181149148
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_182
+  - first:
+      213: -5585971268498435626
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_183
+  - first:
+      213: -5952513383078971168
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_184
+  - first:
+      213: -8443564975129688553
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_185
+  - first:
+      213: 4086832262095453536
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_186
+  - first:
+      213: 6328281560213826550
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_187
+  - first:
+      213: -1346813846602898496
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_188
+  - first:
+      213: 8729952867132487485
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_189
+  - first:
+      213: 2815943871509012257
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_190
+  - first:
+      213: 8181428474426940109
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_191
+  - first:
+      213: 4956869621247587558
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_192
+  - first:
+      213: 3175084385301360452
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_193
+  - first:
+      213: 4364928967486103473
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_194
+  - first:
+      213: 5178387093003957723
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_195
+  - first:
+      213: -6668310654230122798
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_196
+  - first:
+      213: 3211551798866885773
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_197
+  - first:
+      213: -9000954672326141493
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_198
+  - first:
+      213: -3117920183331719407
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_199
+  - first:
+      213: 1647735897051629975
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_200
+  - first:
+      213: -7023854580617388816
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_201
+  - first:
+      213: -4623227756990549276
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_202
+  - first:
+      213: -6708694863954198423
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_203
+  - first:
+      213: 1554869400117171674
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_204
+  - first:
+      213: 5023020440352301075
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_205
+  - first:
+      213: 7016341917051107340
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_206
+  - first:
+      213: -330615800914845631
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_207
+  - first:
+      213: 11861482948117602
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_208
+  - first:
+      213: 781711958963337099
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_209
+  - first:
+      213: 3197720277528187957
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_210
+  - first:
+      213: -8401408579116787326
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_211
+  - first:
+      213: -88346610925161371
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_212
+  - first:
+      213: -946815896873670491
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_213
+  - first:
+      213: -5568938120102806107
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_214
+  - first:
+      213: 4271200515134290675
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_215
+  - first:
+      213: 7708367120995118311
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_216
+  - first:
+      213: -3442248892774074121
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_217
+  - first:
+      213: -7316599660570545220
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_218
+  - first:
+      213: 5527813652866152337
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_219
+  - first:
+      213: 8011404545224365593
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_220
+  - first:
+      213: -1930920060063332600
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_221
+  - first:
+      213: -3057356152335436724
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_222
+  - first:
+      213: -546139044985714019
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_223
+  - first:
+      213: 3140039099354837024
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_224
+  - first:
+      213: 8629780791712603225
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_225
+  - first:
+      213: -1292151632775451046
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_226
+  - first:
+      213: 8254022136463473734
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_227
+  - first:
+      213: 1087720900656684819
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_228
+  - first:
+      213: 1572971073339618509
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_229
+  - first:
+      213: -2749111239960041699
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_230
+  - first:
+      213: 4221563659227277721
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_231
+  - first:
+      213: -4011723986074654705
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_232
+  - first:
+      213: 4825933619082724566
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_233
+  - first:
+      213: -6807983216377042694
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_234
+  - first:
+      213: -3777388492446843240
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_235
+  - first:
+      213: -919153539350829942
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_236
+  - first:
+      213: 2380997019309647512
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_237
+  - first:
+      213: 8434638979553765274
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_238
+  - first:
+      213: -1314270665044160356
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_239
+  - first:
+      213: 7827287640748702014
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_240
+  - first:
+      213: -2940445182471707476
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_241
+  - first:
+      213: 2776500715527837994
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_242
+  - first:
+      213: -5558208414172510704
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_243
+  - first:
+      213: 5811166007403334758
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_244
+  - first:
+      213: -7785989556946126514
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_245
+  - first:
+      213: 2389053315461206800
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_246
+  - first:
+      213: -8260368020931256640
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_247
+  - first:
+      213: 6914047321453850932
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_248
+  - first:
+      213: 4659802499647026003
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_249
+  - first:
+      213: 1623206698231797075
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_250
+  - first:
+      213: -62839125898142218
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_251
+  - first:
+      213: -5767204556919314873
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_252
+  - first:
+      213: 8212181172267986348
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_253
+  - first:
+      213: 5222281945784263777
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_254
+  - first:
+      213: -4915062164422597580
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_255
+  - first:
+      213: 757841717735676365
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_256
+  - first:
+      213: 3393708332733653718
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_257
+  - first:
+      213: -6035262983859244229
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_258
+  - first:
+      213: 3536121558013903597
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_259
+  - first:
+      213: -1639626588231905124
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_260
+  - first:
+      213: -1951853592464268023
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_261
+  - first:
+      213: 1865856277858392205
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_262
+  - first:
+      213: -7212057180691909417
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_263
+  - first:
+      213: 234934245656766913
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_264
+  - first:
+      213: 4556468385614684520
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_265
+  - first:
+      213: 2246357752865374229
+    second: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_266
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ccf5fea74a971b0800000000000000
+      internalID: -5658310608905319393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391af18f778cf7e20800000000000000
+      internalID: 3350617065376424339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd68028107e9520800000000000000
+      internalID: 2710727274650853205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1097c8bf54dd3e0800000000000000
+      internalID: -2027387310551006784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d7e4f0fb4c1daf0800000000000000
+      internalID: -373300969220440793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b07402ca095bcd0800000000000000
+      internalID: -2542967345630475363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb3d7311609c3b0800000000000000
+      internalID: -5491851599580775219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbaffadfe0af2b20800000000000000
+      internalID: 3111882819568118738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f099772060f4e5b0800000000000000
+      internalID: -5339878962384760584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594a834f79aeb4c0800000000000000
+      internalID: -4269789032641574571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854883957c24d8d80800000000000000
+      internalID: -8246861918682708904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb67657b76843cd70800000000000000
+      internalID: 9062166485494298299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f3745c66f08540800000000000000
+      internalID: 5008273730769778224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941af63e63c533d0800000000000000
+      internalID: -3227458679804914531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba0791aff7365b0800000000000000
+      internalID: -5376312818004874361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900cb7ad49ac6b360800000000000000
+      internalID: 7185152996185718793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e7ea0d7defe75e0800000000000000
+      internalID: -1909808989085991282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15115251ec02ddd00800000000000000
+      internalID: 998990761836220753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08c525c0b927530800000000000000
+      internalID: 3851311108578902262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f40fb99301bfa0800000000000000
+      internalID: -5786840087324724901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480246c63d5cbc6f0800000000000000
+      internalID: -663219008259743612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123cbcb91eb437c0800000000000000
+      internalID: -4092437143623028206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d4471edb2f7830800000000000000
+      internalID: 4071020821039339838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45944ad8acb1fa530800000000000000
+      internalID: 3868341161708243284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a55323bd9cb21c0800000000000000
+      internalID: -4527303057113523660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1a88ebe996d000800000000000000
+      internalID: 60404883513809511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda9d1e4a9b03b50800000000000000
+      internalID: 6570955974148468191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1dd4d4428268bc0800000000000000
+      internalID: -3781290700750073390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2bca55f5f4e770800000000000000
+      internalID: 8639300419342510677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb14798178268d00800000000000000
+      internalID: 974510837474794444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c49fd03e233cf0800000000000000
+      internalID: -273824364895092224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f507ffe8d0de60800000000000000
+      internalID: 7985120664481035243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c293c828e68cb0800000000000000
+      internalID: -4861943485922359371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f522ef9d4c4810800000000000000
+      internalID: 1750859704229557391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d57041034ba49a0800000000000000
+      internalID: -6247983414435685086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51693181f339bc0800000000000000
+      internalID: -3777606289793346122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e26f7aaedae020800000000000000
+      internalID: 2371952977626982383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f2872a9c4449f0800000000000000
+      internalID: -485178634877602800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919db733b65dc8a40800000000000000
+      internalID: 5371903111948130585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9a24b1bccf2430800000000000000
+      internalID: 3760449277481622418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f0042826c62080800000000000000
+      internalID: -9212458112034736425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2c11ca1f68a6d0800000000000000
+      internalID: -2979008992805900915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957cfe38c74b60f0800000000000000
+      internalID: -1122724756723042914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a0f7242df1a800800000000000000
+      internalID: 622056555284570811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75a6a128ed22080800000000000000
+      internalID: -9213557237276321836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f7b7506f444cf0800000000000000
+      internalID: -269002802528259309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5518a9dd05bf5f0800000000000000
+      internalID: -721894402552670742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f70fc77cb9d660800000000000000
+      internalID: 7411161884575397683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee422c2add1fc5240800000000000000
+      internalID: 4781962838581322990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce8bd3ff0d5fb940800000000000000
+      internalID: 5314068408417619652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc7f4fe96c4d2b0800000000000000
+      internalID: -5560601253878707152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a6af3204e044f0800000000000000
+      internalID: -846426031636700026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0114fa2467aeb0800000000000000
+      internalID: -4708684749746401582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decc6927800132f0800000000000000
+      internalID: -995013462156587312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f58f1862176f6c0800000000000000
+      internalID: -4109973199725764777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ebb33e2e15eca00800000000000000
+      internalID: 778649820498476625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b5b65d0e29eb50800000000000000
+      internalID: 6622875361849227315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d77746046a6dc0800000000000000
+      internalID: -3644990970271377516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91faf0249d4e4d50800000000000000
+      internalID: 6723396592314544538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c225af7cd29be70800000000000000
+      internalID: 9131380056391822429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e411caf579fc1590800000000000000
+      internalID: -7702006977596943134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8790a5118ffc320800000000000000
+      internalID: 2580553864915286220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b7e9fddc65e240800000000000000
+      internalID: 4820378676806266972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_63
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e19889c812e2370800000000000000
+      internalID: 8299608051028663871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277604d4d6f272040800000000000000
+      internalID: 4622715689013110642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254cbf65672b82e0800000000000000
+      internalID: -2122559482755267286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614359d0a8a5df40800000000000000
+      internalID: 5752689507830022508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca583a2c69f4fd240800000000000000
+      internalID: 4818657635238905260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a714ea1b24abc0800000000000000
+      internalID: -3772843193333734767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c557d028b62d7f10800000000000000
+      internalID: 2269012359531419079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0884a0258b5f69a0800000000000000
+      internalID: -6237666331548415988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8862b6890f3f420800000000000000
+      internalID: 2662736342129477873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf366f5b63c96b0800000000000000
+      internalID: -5288291707289076680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03417e6201b5ab970800000000000000
+      internalID: 8771423349187744816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79922977314e2640800000000000000
+      internalID: 5057051138094963066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: added4ed7e3d2c060800000000000000
+      internalID: 6972368165943504346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828dd4a56a0a75e0800000000000000
+      internalID: -1911203660191399295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99055ce955b3c8790800000000000000
+      internalID: -7526575638320951143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29a3a36fe961130800000000000000
+      internalID: 3537189337722163881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24692747a42cbfce0800000000000000
+      internalID: -1370288036567148990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56c58cdbc3b29e0800000000000000
+      internalID: -1645154453065800194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e483f374c2b340800000000000000
+      internalID: 4878177348681524532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e9641dc8db85b30800000000000000
+      internalID: 4276376258692423266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81780f0c0241fd0800000000000000
+      internalID: -2372235090676213521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64e970a48c269c0800000000000000
+      internalID: -3935362904087443777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f2dc27097e51e0800000000000000
+      internalID: -2207193695641210679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05a085726871650800000000000000
+      internalID: 6203574515265065172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32829d9004afcf500800000000000000
+      internalID: 431494817270802467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea230c6a488b9e0800000000000000
+      internalID: -1605387415433597215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3939bec0e6ea2f0800000000000000
+      internalID: -959708668812356609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7f294db5150a6f0800000000000000
+      internalID: -675450489255299116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2e5c7e57b4f0e0800000000000000
+      internalID: -2236961498454937750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797497ddbc3d68690800000000000000
+      internalID: -7600154448593598569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d268036965a9240800000000000000
+      internalID: 4799243555975867658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ac5b70d0937f10800000000000000
+      internalID: 2266314262594757187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_95
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba37fe8bda9bc90800000000000000
+      internalID: -7153495523298399388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22455f349cd15dc0800000000000000
+      internalID: -3651895293544938963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d381aa9de1e7e0800000000000000
+      internalID: -1737846732797782908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17abf4b3f51919f00800000000000000
+      internalID: 1121837620394965617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc68b1dfa2cac7e0800000000000000
+      internalID: -1744367845259055912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3150daef0d1bb30800000000000000
+      internalID: 4301448911358596064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea971179cd79940800000000000000
+      internalID: 5302949627643408069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e87e912c9615020800000000000000
+      internalID: 2328758764706434715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e73edfd914f0940800000000000000
+      internalID: 5264498636244614707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6160c3a6a0eb30800000000000000
+      internalID: 4314631665258426298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4599eb910329500800000000000000
+      internalID: 401436203919430884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f06141d61a18e120800000000000000
+      internalID: 2443231483150819573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bda3b42d7696750800000000000000
+      internalID: 6298679706757290841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695475ec4ae8aba0800000000000000
+      internalID: -6077350081148462749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d11edb10be604160800000000000000
+      internalID: 7007722722849329620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5224e750b860c72d0800000000000000
+      internalID: -3279739234470182363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbef2ee04cfb2d0800000000000000
+      internalID: -3260672036976017931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65558844ca7b0690800000000000000
+      internalID: -7634873759827667606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01972d40bd93f8410800000000000000
+      internalID: 1481466415269706000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4580869437bc4b0800000000000000
+      internalID: -5419110967495076654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1f593aac6c4800800000000000000
+      internalID: 597972328896208194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb94afa5f4a8fa0800000000000000
+      internalID: -5797734318121304582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95a3f314fe4fc20800000000000000
+      internalID: 3239477095498930667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b375e6704f46f50800000000000000
+      internalID: 6873887244027378517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46501e5908ff170800000000000000
+      internalID: 8214425626560783522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_120
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0439f929f36b03300800000000000000
+      internalID: 229883965155021632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88e9a41ecc85f20800000000000000
+      internalID: 3411701985724762314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7474f663efd0a930800000000000000
+      internalID: 4152565024213464186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df752b00ab35d60800000000000000
+      internalID: 7877844685356006787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70e70c9af163ef0800000000000000
+      internalID: -128880725394061327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa08885b4acec2470800000000000000
+      internalID: 8371325999539323055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9627de67f9ded1f0800000000000000
+      internalID: -1018136808999410019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffde3be9122a500800000000000000
+      internalID: 405923881924034338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0316ec08612550800000000000000
+      internalID: 6134298572064231175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34151ffad53c79270800000000000000
+      internalID: 8257283248958296387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280648baeed35aa20800000000000000
+      internalID: 3072930416039321730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d87f2c1192a7620800000000000000
+      internalID: 2772573676862147981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f9f9ff8929f1f40800000000000000
+      internalID: 5701436839095672699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4fc9cbda7cd2e0800000000000000
+      internalID: -2099668241859260762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_134
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd379b651a8a48700800000000000000
+      internalID: 541743266089497563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41503c4ab40f6b9b0800000000000000
+      internalID: -5064596523254086380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85f1ca410ea2b60800000000000000
+      internalID: 7722230890471839913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503109f3351f6a520800000000000000
+      internalID: 2713121165388288773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_138
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657a195d1ae33f30800000000000000
+      internalID: 4554241059971560809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38120cfc3944fb400800000000000000
+      internalID: 342067498339803523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0dc04f0cc7be9d0800000000000000
+      internalID: -2743962379782139679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9af18ec85e2bbc0800000000000000
+      internalID: -3768697544803112529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca02c97b0ecb2720800000000000000
+      internalID: 2822576140160469710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188b364e0bb86360800000000000000
+      internalID: 7163180877315016724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774475894448e8830800000000000000
+      internalID: 4075340142965376119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e669b4d1b2fbe0800000000000000
+      internalID: -1444897003230795474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac976842eff8db0800000000000000
+      internalID: -4787328446043141584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b695945761a58480800000000000000
+      internalID: -8897528023627753804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8df63a37854f340800000000000000
+      internalID: 4896635948545071309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b116675f15a669900800000000000000
+      internalID: 690856493091021083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc2af81680fe3130800000000000000
+      internalID: 3548538015149862071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc673d10f3d136e20800000000000000
+      internalID: 3342547504889820875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd656c11a1e26b0800000000000000
+      internalID: -5319285446233628806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6455286ba3c607840800000000000000
+      internalID: 5219790967548302662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2120e46b718880800000000000000
+      internalID: -8610465339368460830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbbc257d51d0f8a0800000000000000
+      internalID: -6273284081599071234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9adcb2ff9e2f87c0800000000000000
+      internalID: -4066980673985127781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_157
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18bbc82130771570800000000000000
+      internalID: 8437335783342061595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b71d6af3ec10f70800000000000000
+      internalID: 9151822690570566495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c374dece169d4b0800000000000000
+      internalID: -5415189406715265929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd015696caf68d0800000000000000
+      internalID: -2850870470435086495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_161
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ade770a400e0960800000000000000
+      internalID: 7569988341609716364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22452095f5b01c00800000000000000
+      internalID: 869394794372481578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_163
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e1079e6b85c800800000000000000
+      internalID: 632064629811570783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f8ab0980b3c430800000000000000
+      internalID: 3802076613083461221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08acaa116079412b0800000000000000
+      internalID: -5614696783102162304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b742d23466d84260800000000000000
+      internalID: 7082146139877820343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6dd602918beff0800000000000000
+      internalID: -5768510330540913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4688ceef8792bb0800000000000000
+      internalID: -4960300478286502680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf68d7f15688640800000000000000
+      internalID: 5082423365411994652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57dda03ef493aae0800000000000000
+      internalID: -1539222828171274404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052256f5e19323c90800000000000000
+      internalID: -7191622852344995248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_172
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8868bd9c8409420800000000000000
+      internalID: 2634685813820393708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe9946a4dacc8c0800000000000000
+      internalID: -3977613835847995398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d247d03773342cd80800000000000000
+      internalID: -8231943263447321555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5003526e1837f0800000000000000
+      internalID: -632722339997394045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_176
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee514e57e176d850800000000000000
+      internalID: 6401429158886465248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725296f55f66e39c0800000000000000
+      internalID: -3945603019476228825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_178
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6546db43542720800000000000000
+      internalID: 2820470851823300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9301d345de2901200800000000000000
+      internalID: 148780335721418809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4649527e0a12d6040800000000000000
+      internalID: 4642403765845333092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0f96de54cbd4e0800000000000000
+      internalID: -1955753701555630560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_182
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2f73363105c140800000000000000
+      internalID: 4739195515181149148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dc9f1ab4aa72b0800000000000000
+      internalID: -5585971268498435626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_184
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b1d8ad9c646da0800000000000000
+      internalID: -5952513383078971168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716077b146e62da80800000000000000
+      internalID: -8443564975129688553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_186
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3ec61a4857b830800000000000000
+      internalID: 4086832262095453536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2333ec8292d750800000000000000
+      internalID: 6328281560213826550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_188
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c328a631f72f4de0800000000000000
+      internalID: -1346813846602898496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b55f11e5072970800000000000000
+      internalID: 8729952867132487485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_190
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9bb8180e341720800000000000000
+      internalID: 2815943871509012257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcadb75b9d54a8170800000000000000
+      internalID: 8181428474426940109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_192
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4336c68a65ac440800000000000000
+      internalID: 4956869621247587558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe6c51d6a201c20800000000000000
+      internalID: 3175084385301360452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf52d005c7539c30800000000000000
+      internalID: 4364928967486103473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f7f3ff935dd740800000000000000
+      internalID: 5178387093003957723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de29aa4ac66573a0800000000000000
+      internalID: -6668310654230122798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_197
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c3a357859b19c20800000000000000
+      internalID: 3211551798866885773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99b942a6f261380800000000000000
+      internalID: -9000954672326141493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117fd7adc1ceab4d0800000000000000
+      internalID: -3117920183331719407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7990c6b711fedd610800000000000000
+      internalID: 1647735897051629975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdc401971468e90800000000000000
+      internalID: -7023854580617388816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23ad499def6dfb0800000000000000
+      internalID: -4623227756990549276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_203
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c58fb09de5e2a0800000000000000
+      internalID: -6708694863954198423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5db1a3b71049510800000000000000
+      internalID: 1554869400117171674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_205
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a9b63a7a55b540800000000000000
+      internalID: 5023020440352301075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_206
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b384accd0f5160800000000000000
+      internalID: 7016341917051107340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_207
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140e6554eaa696bf0800000000000000
+      internalID: -330615800914845631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c1a5b4f32a2000800000000000000
+      internalID: 11861482948117602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873fae82e239da00800000000000000
+      internalID: 781711958963337099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534912176a5906c20800000000000000
+      internalID: 3197720277528187957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28913dce863386b80800000000000000
+      internalID: -8401408579116787326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56432b6b93126cef0800000000000000
+      internalID: -88346610925161371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e62f45fb3cd2f0800000000000000
+      internalID: -946815896873670491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf327094827b2b0800000000000000
+      internalID: -5568938120102806107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7b0d1d3a564b30800000000000000
+      internalID: 4271200515134290675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ece63d4e0f99fa60800000000000000
+      internalID: 7708367120995118311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f838bdaedcaa30d0800000000000000
+      internalID: -3442248892774074121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f2fbaf57367a90800000000000000
+      internalID: -7316599660570545220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19734abca3db6bc40800000000000000
+      internalID: 5527813652866152337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165c06dcf93e2f60800000000000000
+      internalID: 8011404545224365593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807cf329f6ef335e0800000000000000
+      internalID: -1930920060063332600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f03c27c61295d0800000000000000
+      internalID: -3057356152335436724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_223
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac7a1ae69bb68f0800000000000000
+      internalID: -546139044985714019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f1e99ce8a39b20800000000000000
+      internalID: 3140039099354837024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd48358e323c770800000000000000
+      internalID: 8629780791712603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6a74afea511ee0800000000000000
+      internalID: -1292151632775451046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbd14c66d2c8270800000000000000
+      internalID: 8254022136463473734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd86a656c581f00800000000000000
+      internalID: 1087720900656684819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47f547bd054d510800000000000000
+      internalID: 1572971073339618509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e52684e139d9d0800000000000000
+      internalID: -2749111239960041699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a0f008c1069a30800000000000000
+      internalID: 4221563659227277721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082b192a4e7358c0800000000000000
+      internalID: -4011723986074654705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48a03ce0929f240800000000000000
+      internalID: 4825933619082724566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8660fb55f2581a0800000000000000
+      internalID: -6807983216377042694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebe09fd25049bc0800000000000000
+      internalID: -3777388492446843240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8463f0d9b28e33f0800000000000000
+      internalID: -919153539350829942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896273b8c200b0120800000000000000
+      internalID: 2380997019309647512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9727f8967bdd0570800000000000000
+      internalID: 8434638979553765274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_239
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90935f1bc5c2cde0800000000000000
+      internalID: -1314270665044160356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b1a573ac10ac60800000000000000
+      internalID: 7827287640748702014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_241
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e3498fa07137d0800000000000000
+      internalID: -2940445182471707476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2997a3b0bc188620800000000000000
+      internalID: 2776500715527837994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_243
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01609ad55e64dd2b0800000000000000
+      internalID: -5558208414172510704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cc912e1b865a050800000000000000
+      internalID: 5811166007403334758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_245
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493359ffbb92f390800000000000000
+      internalID: -7785989556946126514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_246
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d889255f972120800000000000000
+      internalID: 2389053315461206800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_247
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce556edc074d5d80800000000000000
+      internalID: -8260368020931256640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317f7b1861a3ff50800000000000000
+      internalID: 6914047321453850932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_249
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35330fa4fa1faa040800000000000000
+      internalID: 4659802499647026003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_250
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355142554e9c68610800000000000000
+      internalID: 1623206698231797075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_251
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd58ded520c02ff0800000000000000
+      internalID: -62839125898142218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_252
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466fcde206c6ffa0800000000000000
+      internalID: -5767204556919314873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_253
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2f24244787f170800000000000000
+      internalID: 8212181172267986348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_254
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642867c2c5497840800000000000000
+      internalID: 5222281945784263777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_255
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e0a8a0013acbb0800000000000000
+      internalID: -4915062164422597580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_256
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95b9de605648a00800000000000000
+      internalID: 757841717735676365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_257
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26fdb7fbfd81f20800000000000000
+      internalID: 3393708332733653718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337109da407e3ca0800000000000000
+      internalID: -6035262983859244229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_259
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2050462d3d21130800000000000000
+      internalID: 3536121558013903597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_260
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d62c1e40ee39e0800000000000000
+      internalID: -1639626588231905124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_261
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e89fbf7f99e4e0800000000000000
+      internalID: -1951853592464268023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889ea3266ad4e910800000000000000
+      internalID: 1865856277858392205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_263
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4bd0d8430a9eb90800000000000000
+      internalID: -7212057180691909417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_264
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c922f1a377a24300800000000000000
+      internalID: 234934245656766913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616cd20bd3db3f30800000000000000
+      internalID: 4556468385614684520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Gaia Project Tileset 1 by zetavares852 on DeviantArt_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104cf9797aac2f10800000000000000
+      internalID: 2246357752865374229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
